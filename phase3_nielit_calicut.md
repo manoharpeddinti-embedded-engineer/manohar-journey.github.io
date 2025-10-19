@@ -90,15 +90,23 @@ Right before entering the panel room, HR told us,
 
 That line hit us like a lightning bolt.  
 It was both motivation and pressure in one sentence.  
+guess what 
+four candidates 
+1st candidate - has industrial experience even before M.Tech
+2nd candidate - has software experience before M.Tech
+3rd candidate - Its a girl who is topper in our class and hyper active.
+4th its me who have robotics club experience nothing much and not topper.
+
+so i know the result i am the one who will be rejected from this 4.
+
 
 Inside, I gave it everything.  
-I spoke about my **Linux builds, bootloader work**, and how we debugged embedded issues from scratch at NIELIT.  
+I spoke about my **Linux builds, bootloader work**, and how we debugged embedded issues from scratch at NIELIT, and in Robotics competitons.  
 They nodded, smiled, and asked,  
 > “So, if we give you real customer issues tomorrow, can you handle them?”  
 I said,  
-> “I’ve been handling them since my first SD card got corrupted, sir.”  
+> “I’ve been handling them since Under graduation, sir.”  
 
-Everyone laughed — and that laughter broke the tension.  
 
 When results came, I was one of the three selected.  
 That moment felt unreal. From being **rejected in the first list** to **clearing in one interview round** —  
@@ -113,7 +121,7 @@ NIELIT taught me more than any textbook ever could.
 - 🌿 **Patience** — things take time; even a kernel needs to build before it boots.  
 - ⚙️ **Consistency** — one day of focus beats weeks of procrastination.  
 - 🧩 **Teamwork** — no one cracks debugging alone at 2 a.m.  
-- ❤️ **Gratitude** — for the people, the professors, and those endless nights of learning.  
+- ❤️ **Gratitude** — for the people, the professors, and those endless nights of learning in my Engineering days.  
 
 ---
 
