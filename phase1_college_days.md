@@ -18,8 +18,7 @@ Reality Check
 The first few weeks felt strange. Everyone around me was talking about placements in software companies.
 Core electronics? Hardly anyone cared.
 That’s when it hit me — if I wanted to make something out of this, I couldn’t just follow the crowd. I had to find my own path.
-
-So I started attending every lab seriously. My circuits failed more than they worked, but the click of an LED lighting up after hours of mistakes felt like magic. Slowly, professors started noticing my interest. One even said, “You’ll end up doing something different, I can see it.”
+Slowly, professors started noticing my interest. One even said, “You’ll end up doing something different, I can see it.”
 At that time, I had no idea how true that would become.
 
 Friends, Fun & First Lessons
