@@ -10,5 +10,5 @@ This blog is my story — of learning, failing, and growing in the world of embe
 4. [Phase 3: The Breakthrough – Internship at Microchip](phase4_microchip_intern.md)
 5. [Phase 4: Growing Strong – Full-Time at Microchip](phase5_microchip_fulltime.md)
 6. [Phase 5: The Leap – Joining Qualcomm](phase6_qualcomm_life.md)
-7. [Phase 6: Giving Back – Building MAIYANTRA](phase7_maiyantra_journey.md)
-8. [Phase 7: Reflections & Lessons](phase7_reflections.md)
+
+
