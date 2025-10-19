@@ -88,8 +88,8 @@ My friend was laughing hysterically.
 By **4 a.m.**, the sky was still dark.  
 We couldn’t go inside the campus, so we set up **right at the main gate**.  
 
-- My friend sat *outside* near the streetlight with his laptop. 💻  
-- I sat *inside* with the robot and the mat. 🤖  
+- My friend sat *outside*  with his laptop. 💻  
+- I sat *inside* with the robot and the mat under the light. 🤖  
 
 The USB cable was short, so we literally passed it **through the gate grills**.  
 It looked like a cross-border tech operation. 🪫  
