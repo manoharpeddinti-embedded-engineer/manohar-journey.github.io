@@ -150,7 +150,7 @@ Thanks to my manager and team lead for the support.
 
 ### 🌟 The Turning Moment
 
-During my daya as an intern, HR said,  
+During my day as an intern, HR said,  
 > “You’ve done solid work. Let’s continue this full-time.”  
 
 That line hit differently.  
